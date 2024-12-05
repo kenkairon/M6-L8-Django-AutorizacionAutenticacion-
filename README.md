@@ -114,7 +114,8 @@ Educativo y de Aprendizaje Personal
         return render(request,'auth_app/home.html')
 
 16. creo en templates/auth_app/home.html
-  ```bash
+
+    ```bash
     <!DOCTYPE html>
     <html lang="en">
 
